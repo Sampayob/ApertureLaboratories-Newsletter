@@ -1,5 +1,5 @@
 # ApertureLaboratories-Newsletter
-This project is an example of a fictional company (Aperture Laboratories) newsletter.
+This project is an example of a fictional company [(Aperture Laboratories) newsletter](https://aperture-lab-newsletter.herokuapp.com/).
 
 It is not functional at the moment although it is easy to deploy as a Heroku app.
 
@@ -14,3 +14,4 @@ It is not functional at the moment although it is easy to deploy as a Heroku app
 ### Back-end
 
 - Express
+- Mailchimp API
